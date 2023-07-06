@@ -18,7 +18,6 @@ setup(
     install_requires=[
         "numpy",
         "matplotlib",
-        "trimesh[easy]",
         "pyglet",
         "tqdm",
         "pyyaml",
